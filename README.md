@@ -51,5 +51,5 @@
 ---
 
 ### 📊 Most Used Languages:
-![HTML](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarislam&layout=compact&theme=tokyonight)
+!HTML(https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarislam&layout=compact&theme=tokyonight)
 
