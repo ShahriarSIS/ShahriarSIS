@@ -51,5 +51,8 @@
 ---
 
 ### 📊 Most Used Languages:
-!HTML(https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarislam&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShahriarSIS/ShahriarSIS/main/most-used-langs.svg" alt="ShahriarSIS :: Most Used Languages" />
+</p>
+
 
