@@ -3,17 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarislam&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarislam" /> </p>
 
-- 🔭 I’m currently working on [Project Name](#)
-- 🌱 I’m currently learning **Technology Name**
+- 🔭 I’m currently working on **Wonderland**
+- 🌱 I’m currently learning **Flutter**
 - 🤝 I’m looking to collaborate on **Web Projects**
-- 👨‍💻 All of my projects are available at [Your Portfolio Link](#)
+- 👨‍💻 All of my projects are available at <a style="color:blue !important;" href="#">Here</a>
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
-- 📫 How to reach me **youremail@example.com**
-- 📄 Know about my experiences [Your Fiverr or Portfolio Link](#)
+- 📫 How to reach me **islamshahriar200@gmail.com**
+- 📄 Know about my experiences **<a style="color:blue !important;" href="https://www.upwork.com/freelancers/~01a84650f18e98787f?viewMode=1">Upwork</a>**
 
 ---
 
-### 🌐 Connect with me:
 ### 🌐 Connect with me:
 <p align="left">
   <a href="https://x.com/Shahriar_Sinha" target="blank">
